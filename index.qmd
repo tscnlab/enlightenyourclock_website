@@ -1,18 +1,64 @@
 ---
-title: "Quarto Website Template"
-bibliography: references.bib
-format:
-  html:
-    toc: true
-    toc-location: left
-    lightbox: true
-
+title: "Enlighten your clock"
+subtitle: "How your body tells time"
+title-block-banner: true
 ---
 
-This is a Quarto website.
+![](assets/banner.jpg)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Written and illustrated by [Coline Weinzaepflen](https://linktr.ee/Colin.w)
 
-```{r}
-1 + 1
-```
+Edited by [Manuel Spitschan PhD](https://scholar.google.com/citations?user=BXbgAZIAAAAJ&hl=en)
+
+::: {.callout-tip}
+## How to cite this resouce
+
+Weinzaepflen, C. & Spitschan, M. (Ed.) (2021). Enlighten your clock: How your body tells time. (C. Weinzaepflen, Illus.). DOI: 10.17605/osf.io/zqxvh
+:::
+
+### Downloads
+
+Download [high-res PDF](https://osf.io/download/ufmxc/) (31.8 MB)
+
+Download [low-res PDF](https://osf.io/download/v3uky/) (5.8 MB)
+
+### Translations
+
+The following translations are available, thanks to work of dedicated volunteers and the [VELUX Stiftung](https://veluxstiftung.ch/).
+
+For any questions about the translations, please contact [Manuel Spitschan](mailto:manuel.spitschan@psy.ox.ac.uk).
+
+- [আলোকিত হোক দেহঘড়ি (Bangla)](https://osf.io/s6urx/)
+- [Descobrindo seu relogio biológico (Brazilian Portuguese)](https://osf.io/8geh9/)
+- [Il·lumina el teu rellotge (Catalan)](https://osf.io/qywk4/)
+- [了解你的生物钟 (Chinese)](https://osf.io/agm6h/)
+- [Kast lys på dit indre ur (Danish)](https://osf.io/w9pyj/)
+- [Verlicht je klok (Dutch)](https://osf.io/7evhw/)
+- [De la lumière sur votre horloge biologique (French)](https://osf.io/ah4mx/)
+- [Un reloxo con moitas luces (Galician)](https://osf.io/xg2m6/)
+- [Unsere innere Uhr (German)](https://osf.io/8xach/)
+- [Διαφώτισε το ρολόι σου (Greek)](https://osf.io/um364/)
+- [अपनी सर्केडियन घड़ी को प्रबुद्ध /सचेत करें (Hindi)](https://osf.io/748yr/)
+- [Ismerd meg a belső órád! (Hungarian)](https://osf.io/d75ga/)
+- [Alla scoperta del tuo oroligio biologico (Italian)](https://osf.io/45nm8/)
+- [おしゃべりなネコに学ぶ (Japanese)](https://osf.io/s3v75/)
+- [Apšviesk savo laikrodį (Lithuanian)](https://osf.io/34kmx/)
+- [Opplys klokken din (Norwegian)](https://osf.io/hxmd6/)
+- [ساعت بدن خودت رو کوک کن! (Persian)](https://osf.io/dcrgu/)
+- [Ilumina o teu relógio (Portuguese)](https://osf.io/nx3ub/)
+- [Просвети свои часы (Russian)](https://osf.io/wp2sj/)
+- [Hágase la luz… en tu reloj interno (Spanish)](https://osf.io/q4amf/)
+- [Kroppens egen klocka (Swedish)](https://osf.io/knbu5/)
+- [Ritmine Işık Tut! (Turkish)](https://osf.io/hydb6/)
+- [روشنی کی گھڑی (Urdu)](https://osf.io/fnc2b/)
+
+
+### License
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+### Funding
+
+Development of this comic book was funded by an MRC/AHRC/ESRC Engagement Award (MR/T046317/1: [Sleep, circadian rhythms and mental health in schools (SCRAMS)](https://scrams.sphsu.gla.ac.uk/)).
+
+Dr Manuel Spitschan was supported by a Sir Henry Wellcome Postdoctoral Fellowship (Wellcome Trust, 204686/Z/16/Z).
